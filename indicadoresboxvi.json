@@ -1,0 +1,34 @@
+{
+  "portafolio": [
+    {
+      "id": 1,
+      "title": "1. PokeApi V1 - Frontend",
+      "live": "https://pokeapiboris.vercel.app/version_uno",
+      "source": "https://github.com/Boxvi/pokeapiboris"
+    },
+    {
+      "id": 2,
+      "title": "2. PokeApi V2 - Frontend",
+      "live": "https://pokeapiboris.vercel.app/version_dos/todos",
+      "source": "https://github.com/Boxvi/pokeapiboris"
+    },
+    {
+      "id": 3,
+      "title": "3. API PRODUCTO - Backend",
+      "live": "https://api-producto-mongo.onrender.com/swagger-ui/index.html",
+      "source": "https://github.com/Boxvi/api_producto_mongo"
+    },
+    {
+      "id": 4,
+      "title": "4. FRONT PRODUCTO - Frontend",
+      "live": "https://front-producto-mongo.vercel.app/",
+      "source": "https://github.com/Boxvi/front-producto-mongo"
+    },
+    {
+      "id": 5,
+      "title": "5. MVSC - Frontend",
+      "live": "https://mvsc.vercel.app/",
+      "source": "https://github.com/boxvi"
+    }
+  ]
+}
